@@ -1,0 +1,21 @@
+.destaque{
+display: flex;
+background-color: black;
+height: 200px;
+width: 100%;
+justify-content: space-around;
+}
+
+.servico{
+display: flex;
+height: 50px;
+width: 50px;
+background-color: rgb(66, 121, 168);
+justify-content: space-around;
+align-items: center;
+}
+
+h4{
+
+    text-align: center;
+}
